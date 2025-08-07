@@ -26,7 +26,7 @@ python calc.py
 ---
 
 ## 📦Example
-Enter the first number: 10
+Enter the first number: 10 <br>
 Enter the second number: 5
 Enter an operation (+, -, *, /): +
 10.0 + 5.0 = 15.0
